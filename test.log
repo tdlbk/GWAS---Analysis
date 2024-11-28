@@ -1,0 +1,27 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile HapMap_3_r3_1
+  --out test
+  --recode
+
+Hostname: 偷点凉白开
+Working directory: D:\HuaweiMoveData\Users\22130\Desktop\实验报告\医疗大数据\1\GWA_tutorial-master\1_QC_GWAS\1_QC_GWAS\data
+Start time: Fri Nov 29 01:29:40 2024
+
+Random number seed: 1732814980
+16167 MB RAM detected; reserving 8083 MB for main workspace.
+1457897 variants loaded from .bim file.
+165 people (80 males, 85 females) loaded from .fam.
+112 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 112 founders and 53 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 225 het. haploid genotypes present (see test.hh ); many commands treat
+these as missing.
+Total genotyping rate is 0.997378.
+1457897 variants and 165 people pass filters and QC.
+Among remaining phenotypes, 56 are cases and 56 are controls.  (53 phenotypes
+are missing.)
+--recode ped to test.ped + test.map ... done.
+
+End time: Fri Nov 29 01:29:50 2024
